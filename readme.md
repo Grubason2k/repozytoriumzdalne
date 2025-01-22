@@ -1,1 +1,1 @@
-Nowy tekst
+Inny tekst
